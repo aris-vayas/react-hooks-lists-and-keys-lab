@@ -46,7 +46,6 @@ like this:
 ```
 
 Make sure each `<a>` element also gets a unique `key` prop.
-
 ### ProjectList
 
 In the `ProjectList` component, a prop of `projects` is being passed down from
